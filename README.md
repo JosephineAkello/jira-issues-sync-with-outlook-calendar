@@ -1,6 +1,8 @@
-# Forge Hello World
+# Forge Project
 
-This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira issue panel. 
+## Sync Jira Issues with Outlook Calendar
+
+This project contains a Forge app written in Javascript that Syncs Jira Issues with Outlook Calendar. 
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
