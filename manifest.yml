@@ -1,0 +1,11 @@
+modules:
+  jira:issuePanel:
+    - key: jira-issues-sync-with-outlook-calendar-hello-world-panel
+      function: main
+      title: jira-issues-sync-with-outlook-calendar
+      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/05306693-22b5-4432-b2c3-15961aa0ba94
