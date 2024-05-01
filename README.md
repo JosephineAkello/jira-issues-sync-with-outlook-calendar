@@ -4,7 +4,7 @@
 
 This project contains a Forge app written in Javascript that Syncs Jira Issues with Outlook Calendar. 
 
-See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
+See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials on Getting started with Forge.
 
 ## Requirements
 
